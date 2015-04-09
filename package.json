@@ -1,0 +1,24 @@
+{
+	"name": "svc",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/claneys/pack-svc",
+	"author": "Romain Forlot",
+	"description": "SVC checks",
+	"contributors": [
+	  {
+		"name": "Forlot Romain",
+		"email": "rforlot@yahoo.com"
+	  }
+	],
+	"repository": "https://github.com/svc/pack-svc",
+	"keywords": [
+	  "pack",
+	  "svc",
+	  "ibm"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
